@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://gentlemanpain.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Feb 2020 12:48:17 +0800</lastBuildDate>
+    
+	<atom:link href="https://gentlemanpain.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>乐乐宝宝</title>
+      <link>https://gentlemanpain.github.io/post/blog2/</link>
+      <pubDate>Wed, 05 Feb 2020 12:48:17 +0800</pubDate>
+      
+      <guid>https://gentlemanpain.github.io/post/blog2/</guid>
+      <description>可爱的乐乐宝宝，今天下午要去逛超市。 她的父亲是胡广源同学。</description>
+    </item>
+    
+  </channel>
+</rss>
