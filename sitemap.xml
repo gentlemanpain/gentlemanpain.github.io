@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gentlemanpain.github.io/</loc>
-    <lastmod>2020-02-05T12:48:17+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gentlemanpain.github.io/post/</loc>
     <lastmod>2020-02-05T12:48:17+08:00</lastmod>
   </url>
@@ -18,11 +13,35 @@
   </url>
   
   <url>
+    <loc>https://gentlemanpain.github.io/</loc>
+    <lastmod>2020-02-05T12:48:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gentlemanpain.github.io/top/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gentlemanpain.github.io/top/books/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gentlemanpain.github.io/top/%E7%AC%94%E8%AE%B0/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gentlemanpain.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://gentlemanpain.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gentlemanpain.github.io/top/</loc>
   </url>
   
 </urlset>
